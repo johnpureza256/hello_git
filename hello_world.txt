@@ -1,0 +1,1 @@
+hello, learning git. so basically, when we make changes to a file, it is not yet transferred to our git repository. we can trasnfer it by first adding the changes to the file to teh staging area where we will commit and push later.
